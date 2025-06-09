@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\Пользователь\source\repos\Gliphes\main.c(50,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Gliphes\main.c(70,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Gliphes\main.c(89,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Gliphes\main.c(108,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Gliphes\main.c(129,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\Gliphes\main.c(359,2): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Пользователь\source\repos\Gliphes\main.c(410,47): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\Пользователь\source\repos\Gliphes\main.c(409,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Пользователь\source\repos\Gliphes\main.c(446,7): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\Пользователь\source\repos\Gliphes\main.c(685,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\Пользователь\source\repos\Gliphes\main.c(196,1): warning C4717: popcnt16: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Gliphes.vcxproj -> C:\Users\Пользователь\source\repos\Gliphes\x64\Debug\Gliphes.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
