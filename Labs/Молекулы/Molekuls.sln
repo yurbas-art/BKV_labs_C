@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Molekuls", "Molekuls.vcxproj", "{B97CCF30-CD72-4D8A-AE0B-FCD34F521BAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{7BBD7910-F66D-4A14-AD5A-ED6D152BD1C8}"
+	ProjectSection(SolutionItems) = preProject
+		fullMatrix.c = fullMatrix.c
+		fullMatrix.h = fullMatrix.h
+		matrix\matadd.c = matrix\matadd.c
+		matrix\matcreat.c = matrix\matcreat.c
+		matrix\matcreat4.h = matrix\matcreat4.h
+		matrix\matdet.c = matrix\matdet.c
+		matrix\matdump.c = matrix\matdump.c
+		matrix\materr.c = matrix\materr.c
+		matrix\matinv.c = matrix\matinv.c
+		matrix\matmul.c = matrix\matmul.c
+		matrix\matrix.h = matrix\matrix.h
+		matrix\matsub.c = matrix\matsub.c
+		matrix\mattran.c = matrix\mattran.c
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97CCF30-CD72-4D8A-AE0B-FCD34F521BAD}.Debug|x64.ActiveCfg = Debug|x64
+		{B97CCF30-CD72-4D8A-AE0B-FCD34F521BAD}.Debug|x64.Build.0 = Debug|x64
+		{B97CCF30-CD72-4D8A-AE0B-FCD34F521BAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{B97CCF30-CD72-4D8A-AE0B-FCD34F521BAD}.Debug|x86.Build.0 = Debug|Win32
+		{B97CCF30-CD72-4D8A-AE0B-FCD34F521BAD}.Release|x64.ActiveCfg = Release|x64
+		{B97CCF30-CD72-4D8A-AE0B-FCD34F521BAD}.Release|x64.Build.0 = Release|x64
+		{B97CCF30-CD72-4D8A-AE0B-FCD34F521BAD}.Release|x86.ActiveCfg = Release|Win32
+		{B97CCF30-CD72-4D8A-AE0B-FCD34F521BAD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {168218E4-9297-4DB9-8F9E-95E9ADC72366}
+	EndGlobalSection
+EndGlobal
