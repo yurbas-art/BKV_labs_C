@@ -1,0 +1,1 @@
+cd /mnt/e/projects/github/programming-C/Vasyliev/Lab3/Lab3; g++ -o "/mnt/e/projects/github/programming-C/Vasyliev/Lab3/Lab3/bin/x64/Debug/Lab3.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack "/mnt/e/projects/github/programming-C/Vasyliev/Lab3/Lab3/obj/x64/Debug/Lab3.o"
