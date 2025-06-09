@@ -1,0 +1,40 @@
+﻿  main.c
+C:\Users\Пользователь\source\repos\Graphic\main.c(161,22): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(161,29): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(161,39): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(161,46): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(162,25): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(162,35): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(162,42): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(162,52): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(186,26): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(186,34): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(186,42): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(186,50): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(187,26): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(187,34): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(187,42): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(187,50): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(188,26): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(188,34): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(188,42): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(188,50): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(189,26): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(189,34): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(189,42): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(189,50): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(240,15): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(240,18): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(240,21): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(240,24): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(234,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(264,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(265,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(266,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(283,25): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(283,40): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(283,55): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\Graphic\main.c(283,70): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+  Graphic.vcxproj -> C:\Users\Пользователь\source\repos\Graphic\x64\Debug\Graphic.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
